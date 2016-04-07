@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="meassage">যদি আমার এপ্লিকেশন টি ভালো লাগে তা হইলে অনুগ্রহ করে লাইক দিবেন </string>
+    <string name="new_rate_dialog_title">Rate Me!</string>
+    <string name="new_rate_dialog_never">Never</string>
+    <string name="new_rate_dialog_later">Later</string>
+    <string name="new_rate_dialog_ok">Rate</string>
+
+
+
+
+
+
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+    <string name="quit">quit</string>
+    <string name="title">Are you close application></string>
+
+
+
+
+
+
+
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Articles</string>
+    <string name="nav_item_notifications">Developer by</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+
+
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+        <item>@string/krishi_name_4</item>
+        <item>@string/krishi_name_5</item>
+        <item>@string/krishi_name_6</item>
+        <item>@string/krishi_name_7</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+    </string-array>
+
+    <string name="title_messages">Bulbull</string>
+    <string name="title_friends">Articles</string>
+    <string name="title_home">বীজবপন </string>
+    <string name="shamsur_name">বীজবপন </string>
+
+    <string name="kkobita_list">চাষবাদ প্রক্রিয়া </string>
+    <string name="krishi_name_1">পরিচয় </string>
+    <string name="krishi_name_2">বীজবপন  </string>
+    <string name="krishi_name_3">রোগ প্রতিকার ও প্রতিশোধ </string>
+    <string name="krishi_name_4">সংরক্ষণ </string>
+    <string name="krishi_name_5">বীজবপন  </string>
+    <string name="krishi_name_6">বীজবপন  </string>
+    <string name="krishi_name_7">বীজবপন  </string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="shamsur_nav_drawer_labels">
+        <item>@string/kkobita_list</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+        <item>@string/krishi_name_4</item>
+        <item>@string/krishi_name_5</item>
+        <item>@string/krishi_name_6</item>
+        <item>@string/krishi_name_7</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+
+    </string-array>
+
+
+    <!--listview kobita -->
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="shamsur_Kobita_listName">
+
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+        <item>@string/krishi_name_4</item>
+        <item>@string/krishi_name_5</item>
+        <item>@string/krishi_name_6</item>
+        <item>@string/krishi_name_7</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_1</item>
+        <item>@string/krishi_name_2</item>
+        <item>@string/krishi_name_3</item>
+
+    </string-array>
+
+<string name="details_up">দোয়াঁশ ও এঁটেল মাটি বীজতলার জন্য ভাল। বীজতলার জমি অনুর্বর হলে প্রতি বর্মমিটার জমিতে ২ ‌কেজি হারে অথবা প্রতি শতাংশ জমিতে ২ মণ পঁচা গোবর বা আবর্জনা সার সুন্দরভাবে ছড়িয়ে দিতে হবে। এরপর জমিতে ৫-৬ সেন্টিমিটার পানি দিয়ে দু-তিনটি চাষ ও মই দিয়ে ৭ থেকে ১০ দিন রেখে দিতে হবে এবং পানি ভালভাবে আটকিয়ে রাখতে হবে। আগাছা, খড় ইত্যাদি পচে গেলে আবার চাষ ও মই দিয়ে থকথকে কাদাময় জমি তৈরি করতে হবে। শেষ জমি তৈরির সময় প্রতি শতকে ১০ গ্রাম ফুরাডান, ১৬০ গ্রাম টিএসপি এবং ২৮০ গ্রাম এমপি প্রয়োগ করতে হবে। এরপর ৩ মিটার লম্বা ও ১ মিটার চওড়া বেড তৈরি করতে হবে। বেডের উপরের মাটি বাঁশ বা কাঠের চ্যাপ্টা লাঠি দিয়ে সমান করতে হবে। দুটি বেডের মাঝখানে ২৫-৩০ সেন্টিমিটার নালা রাখতে হবে যা বীজতলায় পানি দিতে এবং প্রয়োজনে পানি নিস্কাশনে সহায়ক হয়।\n\n
+
+    <b>পরিমাণ বীজতলায়</b>
+</string>>
+
+
+    <string name="details_down">এক শতক (৪০ বর্গমিটার) পরিমাণ বীজতলায় ৩.৫-৪.০ কেজি বীজ বোনা দরকার। এরূপ ১ শতক বীজতলার চারা দিয়ে প্রায় ১ বিঘা জমি রোপণ করা যাবে। জুন মাসের শেষ সপ্তাহ হতে জুলাইয়ের দ্বিতীয় সপ্তাহ (আষাঢ়ের ২য় সপ্তাহ হতে শেষ সপ্তাহ) পর্যন্ত বীজ তলায় বীজ বপণ করা যাবে।\n\n\n
+ডা. প্রণব কুমার চৌধুরী\n
+ শিশুস্বাস্থ্য বিভাগ, চট্টগ্রাম মেডিকেল কলেজ হাসপাতাল।\n
+সূত্র: দৈনিক প্রথম আলো, জানুয়ারি ০৩, ২০১৩</string>
+
+
+</resources>
